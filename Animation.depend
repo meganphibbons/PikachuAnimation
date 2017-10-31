@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1492783500 source:e:\c++\allegroprojects\animation\main.cpp
+	"Pikachu.h"
+	<allegro.h>
+
+1492783480 e:\c++\allegroprojects\animation\include\pikachu.h
+	<allegro.h>
+
+1492783596 source:e:\c++\allegroprojects\animation\src\pikachu.cpp
+	"Pikachu.h"
+	<cstdlib>
+	<iostream>
+
